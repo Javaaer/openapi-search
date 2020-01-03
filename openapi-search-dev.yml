@@ -1,0 +1,5 @@
+#写连接rabbitmq的连接信息.访问地址http://rabbitmq.qfjava.cn/
+spring:
+  rabbitmq:
+    host: rabbitmq.qfjava.cn
+    port: 8800
